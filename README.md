@@ -1,4 +1,4 @@
-<div style="text-align: center; height: 100px;">
+<div style="text-align: center;">
   <svg width="100%" height="100%" viewBox="0 0 128 128">
       <g id="Layer1">
           <path d="M35.598,10.144L92.993,10.308L69.733,52.339L92.444,52.714L53.149,118.506L53.221,68.867L35.556,68.926L35.598,10.144Z" style="fill:rgb(251,192,45);"/>
