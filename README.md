@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/ThadeuLuz/vsce-firebase-bolt/master/images/flash.svg">
+  <img src="https://raw.githubusercontent.com/ThadeuLuz/vsce-firebase-bolt/master/images/flash.png">
 </div>
 
 # Firebase Bolt
