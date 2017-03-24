@@ -1,45 +1,45 @@
 {
-    "name": "firebase-bolt",
-    "displayName": "firebase-bolt",
-    "description": "Firebase Bolt support",
-    "version": "0.0.1",
-    "publisher": "thadeuluz",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/ThadeuLuz/vsce-firebase-bolt.git"
-    },
-    "engines": {
-        "vscode": "^1.10.0"
-    },
-    "categories": [
-        "Languages"
+  "name": "firebase-bolt",
+  "displayName": "firebase-bolt",
+  "description": "Firebase Bolt support",
+  "version": "0.0.2",
+  "publisher": "thadeuluz",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThadeuLuz/vsce-firebase-bolt.git"
+  },
+  "engines": {
+    "vscode": "^1.10.0"
+  },
+  "categories": [
+    "Languages"
+  ],
+  "contributes": {
+    "languages": [
+      {
+        "id": "bolt",
+        "aliases": [
+          "Bolt",
+          "bolt"
+        ],
+        "extensions": [
+          "bolt"
+        ],
+        "configuration": "./language-configuration.json"
+      }
     ],
-    "contributes": {
-        "languages": [
-            {
-                "id": "bolt",
-                "aliases": [
-                    "Bolt",
-                    "bolt"
-                ],
-                "extensions": [
-                    "bolt"
-                ],
-                "configuration": "./language-configuration.json"
-            }
-        ],
-        "grammars": [
-            {
-                "language": "bolt",
-                "scopeName": "source.bolt",
-                "path": "./syntaxes/bolt.tmLanguage.json"
-            }
-        ],
-        "snippets": [
-            {
-                "language": "bolt",
-                "path": "./snippets/bolt.json"
-            }
-        ]
-    }
+    "grammars": [
+      {
+        "language": "bolt",
+        "scopeName": "source.bolt",
+        "path": "./syntaxes/bolt.tmLanguage.json"
+      }
+    ],
+    "snippets": [
+      {
+        "language": "bolt",
+        "path": "./snippets/bolt.json"
+      }
+    ]
+  }
 }
