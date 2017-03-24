@@ -4,6 +4,7 @@
   "description": "Firebase Bolt support",
   "version": "0.0.2",
   "publisher": "thadeuluz",
+  "icon": "images/flash.png",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ThadeuLuz/vsce-firebase-bolt.git"

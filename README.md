@@ -1,4 +1,4 @@
-# firebase-bolt
+# ![Bolt Logo](https://raw.githubusercontent.com/ThadeuLuz/vsce-firebase-bolt/master/images/flash.svg) firebase-bolt
 
 Firebase Bolt syntax highlight and a few snippets. Based on the Atom's extention [lang-bolt](https://github.com/mhartington/lang-bolt).
 
@@ -6,7 +6,7 @@ Firebase Bolt syntax highlight and a few snippets. Based on the Atom's extention
 
 Makes your .bolt files pretty.
 
-![Bolt File](https://raw.githubusercontent.com/ThadeuLuz/vsce-firebase-bolt/master/image/snapshot.png)
+![Bolt File](https://raw.githubusercontent.com/ThadeuLuz/vsce-firebase-bolt/master/images/snapshot.png)
 
 ## Release Notes
 
