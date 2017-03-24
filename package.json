@@ -1,7 +1,7 @@
 {
     "name": "firebase-bolt",
-    "displayName": "firebase-bolt",
-    "description": "Firebase Bolt support",
+    "displayName": "Firebase Bolt",
+    "description": "Firebase Bolt syntax highlight",
     "version": "0.1.0",
     "publisher": "thadeuluz",
     "icon": "images/flash.png",
