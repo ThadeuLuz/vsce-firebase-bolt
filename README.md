@@ -6,7 +6,7 @@ Firebase Bolt syntax highlight and a few snippets. Based on the Atom's extention
 
 Makes your .bolt files pretty.
 
-![Bolt Sublime](https://raw.githubusercontent.com/smkamranqadri/vscode-bolt-language/master/images/logo.png)
+![Bolt File](https://raw.githubusercontent.com/ThadeuLuz/vsce-firebase-bolt/blob/master/image/snapshot.png)
 
 ## Release Notes
 
