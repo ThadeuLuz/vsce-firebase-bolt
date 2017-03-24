@@ -3,7 +3,11 @@
     "displayName": "firebase-bolt",
     "description": "Firebase Bolt support",
     "version": "0.0.1",
-    "publisher": "Thadeu Luz",
+    "publisher": "thadeuluz",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ThadeuLuz/vsce-firebase-bolt.git"
+    },
     "engines": {
         "vscode": "^1.10.0"
     },
