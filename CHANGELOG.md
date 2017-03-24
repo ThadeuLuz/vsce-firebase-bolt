@@ -1,5 +1,10 @@
 # Change Log
 
+## v0.1.3
+
+- Round Icon
+- Remove Changelog description
+
 ## v0.1.2
 
 - UNignore readme and changelog (was hidden in ext description)
