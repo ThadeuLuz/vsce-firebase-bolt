@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="text-align: center; width: 100%;">
   <img src="https://raw.githubusercontent.com/ThadeuLuz/vsce-firebase-bolt/master/images/flash.png">
 </div>
 
