@@ -10,6 +10,4 @@ Makes your .bolt files pretty.
 
 ## Release Notes
 
-### 0.1.0
-
-Initial release
+Check [CHANGELOG.md](https://github.com/ThadeuLuz/vsce-firebase-bolt/blob/master/CHANGELOG.md) on the repo.
