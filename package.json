@@ -1,0 +1,41 @@
+{
+    "name": "firebase-bolt",
+    "displayName": "firebase-bolt",
+    "description": "Firebase Bolt support",
+    "version": "0.0.1",
+    "publisher": "Thadeu Luz",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [
+            {
+                "id": "bolt",
+                "aliases": [
+                    "Bolt",
+                    "bolt"
+                ],
+                "extensions": [
+                    "bolt"
+                ],
+                "configuration": "./language-configuration.json"
+            }
+        ],
+        "grammars": [
+            {
+                "language": "bolt",
+                "scopeName": "source.bolt",
+                "path": "./syntaxes/bolt.tmLanguage.json"
+            }
+        ],
+        "snippets": [
+            {
+                "language": "bolt",
+                "path": "./snippets/bolt.json"
+            }
+        ]
+    }
+}
