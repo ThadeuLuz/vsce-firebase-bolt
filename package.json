@@ -1,46 +1,46 @@
 {
-  "name": "firebase-bolt",
-  "displayName": "firebase-bolt",
-  "description": "Firebase Bolt support",
-  "version": "0.0.2",
-  "publisher": "thadeuluz",
-  "icon": "images/flash.png",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ThadeuLuz/vsce-firebase-bolt.git"
-  },
-  "engines": {
-    "vscode": "^1.10.0"
-  },
-  "categories": [
-    "Languages"
-  ],
-  "contributes": {
-    "languages": [
-      {
-        "id": "bolt",
-        "aliases": [
-          "Bolt",
-          "bolt"
-        ],
-        "extensions": [
-          "bolt"
-        ],
-        "configuration": "./language-configuration.json"
-      }
+    "name": "firebase-bolt",
+    "displayName": "firebase-bolt",
+    "description": "Firebase Bolt support",
+    "version": "0.1.0",
+    "publisher": "thadeuluz",
+    "icon": "images/flash.png",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ThadeuLuz/vsce-firebase-bolt.git"
+    },
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Languages"
     ],
-    "grammars": [
-      {
-        "language": "bolt",
-        "scopeName": "source.bolt",
-        "path": "./syntaxes/bolt.tmLanguage.json"
-      }
-    ],
-    "snippets": [
-      {
-        "language": "bolt",
-        "path": "./snippets/bolt.json"
-      }
-    ]
-  }
+    "contributes": {
+        "languages": [
+            {
+                "id": "bolt",
+                "aliases": [
+                    "Bolt",
+                    "bolt"
+                ],
+                "extensions": [
+                    "bolt"
+                ],
+                "configuration": "./language-configuration.json"
+            }
+        ],
+        "grammars": [
+            {
+                "language": "bolt",
+                "scopeName": "source.bolt",
+                "path": "./syntaxes/bolt.tmLanguage.json"
+            }
+        ],
+        "snippets": [
+            {
+                "language": "bolt",
+                "path": "./snippets/bolt.json"
+            }
+        ]
+    }
 }
