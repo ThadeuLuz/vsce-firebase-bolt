@@ -3,7 +3,11 @@ All notable changes to the "firebase-bolt" extension will be documented in this 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## v0.1.0
+## v0.1.2
+
+- UNignore readme and changelog (was hidden in ext description)
+
+## v0.1.1
 - Add .vscodeignore
 - Change extension icon bg color
 - Change extension pretty name
